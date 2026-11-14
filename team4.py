@@ -1,3 +1,3 @@
 a=int(input())
 for i in range b
-print(j)
+print(i)
